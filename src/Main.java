@@ -4,6 +4,12 @@ public class Main {
         audi.model="TT";
         audi.price=65000.0;
         audi.year=2022;
+
+        Porsche porsche=new Porsche();
+        porsche.model="Macan";
+        porsche.price=85500.0;
+        porsche.year=2023;
+
         
     }
 }
